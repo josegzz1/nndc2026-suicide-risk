@@ -1,0 +1,37 @@
+"predictor","model","term","X2","df","p"
+"BMI","Unadjusted","Omnibus",0.998302519945044,1,0.317721597249728
+"BMI","Unadjusted","Index",0.998302519945044,1,0.317721597249728
+"BMI","Adjusted","Omnibus",1.83427458934151,3,0.607504954795676
+"BMI","Adjusted","Index",0.398648313249129,1,0.527788151002965
+"BMI","Adjusted","Age",1.04355843010493,1,0.306995316967501
+"BMI","Adjusted","Male sex",0.0119004803167562,1,0.913131643634973
+"Waist circumference","Unadjusted","Omnibus",0.00597619842465127,1,0.93838021672955
+"Waist circumference","Unadjusted","Index",0.00597619842465127,1,0.93838021672955
+"Waist circumference","Adjusted","Omnibus",1.53097450183598,3,0.675140102834938
+"Waist circumference","Adjusted","Index",0.116414599563155,1,0.732956156637521
+"Waist circumference","Adjusted","Age",1.52888510678572,1,0.216279847473247
+"Waist circumference","Adjusted","Male sex",0.0432647766946353,1,0.835227509545446
+"Waist-to-hip ratio","Unadjusted","Omnibus",0.215369182467612,1,0.642591251497415
+"Waist-to-hip ratio","Unadjusted","Index",0.215369182467612,1,0.642591251497415
+"Waist-to-hip ratio","Adjusted","Omnibus",2.24507692863476,3,0.52312427997396
+"Waist-to-hip ratio","Adjusted","Index",0.790308532586603,1,0.374006848331834
+"Waist-to-hip ratio","Adjusted","Age",2.06530940088547,1,0.150684343412291
+"Waist-to-hip ratio","Adjusted","Male sex",0.292711262202304,1,0.588488305511851
+"Waist-to-height ratio","Unadjusted","Omnibus",0.0192278009981941,1,0.88971539320508
+"Waist-to-height ratio","Unadjusted","Index",0.0192278009981941,1,0.88971539320508
+"Waist-to-height ratio","Adjusted","Omnibus",1.51073451698215,3,0.679795034803328
+"Waist-to-height ratio","Adjusted","Index",0.0603682754300971,1,0.805914810234635
+"Waist-to-height ratio","Adjusted","Age",1.48469598344989,1,0.223041235053944
+"Waist-to-height ratio","Adjusted","Male sex",0.0206353102224015,1,0.885776889533446
+"Body Roundness Index","Unadjusted","Omnibus",0.023449832784928,1,0.878293091034164
+"Body Roundness Index","Unadjusted","Index",0.023449832784928,1,0.878293091034164
+"Body Roundness Index","Adjusted","Omnibus",1.51808572623058,3,0.67810248897021
+"Body Roundness Index","Adjusted","Index",0.0723734122860797,1,0.787911929468379
+"Body Roundness Index","Adjusted","Age",1.50111269506319,1,0.220500234964867
+"Body Roundness Index","Adjusted","Male sex",0.0204903564827897,1,0.886176037143444
+"REAP-S","Unadjusted","Omnibus",4.89863639172665,1,0.0268779112607036
+"REAP-S","Unadjusted","Index",4.89863639172665,1,0.0268779112607036
+"REAP-S","Adjusted","Omnibus",7.121109444913,3,0.0681361627297258
+"REAP-S","Adjusted","Index",5.49632517144213,1,0.0190564799009738
+"REAP-S","Adjusted","Age",2.30922783249878,1,0.128607924237733
+"REAP-S","Adjusted","Male sex",0.00148055788335274,1,0.969306557450732

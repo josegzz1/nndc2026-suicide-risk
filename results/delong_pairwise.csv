@@ -1,0 +1,16 @@
+"pair","p","p_holm"
+"BMI vs Waist circumference",0.14838300756683,1
+"BMI vs Waist-to-hip ratio",0.519908309442051,1
+"BMI vs Waist-to-height ratio",0.378947704055759,1
+"BMI vs Body Roundness Index",0.378947704055759,1
+"BMI vs REAP-S",0.232604995868492,1
+"Waist circumference vs Waist-to-hip ratio",0.907074941085365,1
+"Waist circumference vs Waist-to-height ratio",0.247937916273879,1
+"Waist circumference vs Body Roundness Index",0.247937916273879,1
+"Waist circumference vs REAP-S",0.520542596469461,1
+"Waist-to-hip ratio vs Waist-to-height ratio",0.740000986764743,1
+"Waist-to-hip ratio vs Body Roundness Index",0.740000986764743,1
+"Waist-to-hip ratio vs REAP-S",0.487905548099182,1
+"Waist-to-height ratio vs Body Roundness Index",1,1
+"Waist-to-height ratio vs REAP-S",0.364447576598788,1
+"Body Roundness Index vs REAP-S",0.364447576598788,1

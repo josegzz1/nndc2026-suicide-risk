@@ -1,0 +1,37 @@
+"predictor","outcome","model","term","p"
+"BMI","Binomial","Unadjusted","Index",0.52069673377165
+"BMI","Binomial","Adjusted","Index",0.644363392873959
+"BMI","Binomial","Adjusted","Age",0.241967248409456
+"BMI","Ordinal","Unadjusted","Index",0.384856789413077
+"BMI","Ordinal","Adjusted","Index",0.788942139347303
+"BMI","Ordinal","Adjusted","Age",0.311721135451763
+"Waist circumference","Binomial","Unadjusted","Index",0.949642863823043
+"Waist circumference","Binomial","Adjusted","Index",0.429806249630058
+"Waist circumference","Binomial","Adjusted","Age",0.227740614501922
+"Waist circumference","Ordinal","Unadjusted","Index",0.992877067386018
+"Waist circumference","Ordinal","Adjusted","Index",0.403653914927016
+"Waist circumference","Ordinal","Adjusted","Age",0.26284830310169
+"Waist-to-hip ratio","Binomial","Unadjusted","Index",0.657070212839066
+"Waist-to-hip ratio","Binomial","Adjusted","Index",0.538874789589322
+"Waist-to-hip ratio","Binomial","Adjusted","Age",0.184533169289707
+"Waist-to-hip ratio","Ordinal","Unadjusted","Index",0.731787089789459
+"Waist-to-hip ratio","Ordinal","Adjusted","Index",0.698459084682655
+"Waist-to-hip ratio","Ordinal","Adjusted","Age",0.211211525237815
+"Waist-to-height ratio","Binomial","Unadjusted","Index",0.860601965190415
+"Waist-to-height ratio","Binomial","Adjusted","Index",0.434311309334886
+"Waist-to-height ratio","Binomial","Adjusted","Age",0.198976627509344
+"Waist-to-height ratio","Ordinal","Unadjusted","Index",0.941281729593582
+"Waist-to-height ratio","Ordinal","Adjusted","Index",0.46619293071823
+"Waist-to-height ratio","Ordinal","Adjusted","Age",0.236063328368653
+"Body Roundness Index","Binomial","Unadjusted","Index",0.91394293779687
+"Body Roundness Index","Binomial","Adjusted","Index",0.446033796725561
+"Body Roundness Index","Binomial","Adjusted","Age",0.199943844370245
+"Body Roundness Index","Ordinal","Unadjusted","Index",0.836681227281366
+"Body Roundness Index","Ordinal","Adjusted","Index",0.464064700933999
+"Body Roundness Index","Ordinal","Adjusted","Age",0.236401164711984
+"REAP-S","Binomial","Unadjusted","Index",0.876967823430959
+"REAP-S","Binomial","Adjusted","Index",0.741268774328284
+"REAP-S","Binomial","Adjusted","Age",0.119685606108255
+"REAP-S","Ordinal","Unadjusted","Index",0.808485642382781
+"REAP-S","Ordinal","Adjusted","Index",0.984021811317996
+"REAP-S","Ordinal","Adjusted","Age",0.175120610620715

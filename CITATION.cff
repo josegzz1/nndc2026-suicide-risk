@@ -1,0 +1,54 @@
+cff-version: 1.2.0
+message: "If you use this material, please cite the poster below."
+title: "Body Roundness Index, anthropometrics and diet quality for suicide risk in major depression: code and aggregated results (NNDC 2026 poster)"
+type: software
+license: MIT
+repository-code: "https://github.com/josegzz1/nndc2026-suicide-risk"
+url: "https://github.com/josegzz1/nndc2026-suicide-risk"
+keywords:
+  - major depressive disorder
+  - suicide risk
+  - Body Roundness Index
+  - anthropometrics
+  - diet quality
+  - REAP-S
+authors: &authors
+  - family-names: "González-Cantú"
+    given-names: "José C."
+    affiliation: "Department of Psychiatry, Universidad Autónoma de Nuevo León, Monterrey, Mexico"
+    email: "jose.gonzalezc@uanl.edu.mx"
+  - family-names: "Jezzini-Martínez"
+    given-names: "Sofía"
+    affiliation: "Department of Psychiatry, Universidad Autónoma de Nuevo León, Monterrey, Mexico; Institute of Psychiatry, Psychology & Neuroscience, King's College London, London, UK"
+  - family-names: "Rojas-Newman"
+    given-names: "Mariah R."
+    affiliation: "Department of Psychiatry, Universidad Autónoma de Nuevo León, Monterrey, Mexico"
+  - family-names: "Rodríguez-Díaz"
+    given-names: "Brenda C."
+    affiliation: "Department of Psychiatry, Universidad Autónoma de Nuevo León, Monterrey, Mexico"
+  - family-names: "Silva-Valdes"
+    given-names: "Edgar O."
+    affiliation: "Department of Psychiatry, Universidad Autónoma de Nuevo León, Monterrey, Mexico"
+  - family-names: "Cuellar-Barboza"
+    given-names: "Alfredo"
+    affiliation: "Department of Psychiatry, Universidad Autónoma de Nuevo León, Monterrey, Mexico; Department of Psychiatry and Psychology, Mayo Clinic, Rochester, Minnesota, USA"
+  - family-names: "Fernández-Zambrano"
+    given-names: "Stefan"
+    affiliation: "Department of Psychiatry, Universidad Autónoma de Nuevo León, Monterrey, Mexico"
+  - family-names: "Gardea-Resendez"
+    given-names: "Manuel"
+    affiliation: "Department of Psychiatry, Universidad Autónoma de Nuevo León, Monterrey, Mexico; Department of Psychiatry and Psychology, Mayo Clinic, Rochester, Minnesota, USA"
+preferred-citation:
+  type: generic
+  title: "A Preliminary Analysis of the Discriminative Capacity of the Body Roundness Index, Conventional Anthropometrics, and Diet Quality for Identifying Suicide Risk at First Consultation in Major Depression"
+  authors: *authors
+  year: 2026
+  url: "https://github.com/josegzz1/nndc2026-suicide-risk"
+  notes: "Poster presented at the NNDC 2026 Annual Conference, Austin, Texas, October 19-20, 2026."
+  conference:
+    name: "NNDC 2026 Annual Conference"
+    city: "Austin"
+    region: "Texas"
+    country: "US"
+    date-start: 2026-10-19
+    date-end: 2026-10-20
